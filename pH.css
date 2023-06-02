@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    background-color: #e600ac;
+    text-align: center;
+    color:white;
+}
+
+.main{
+    align-content: center;
+    padding: 20px 150px;
+    width: 1000px;
+}
+
+.one{
+    background-color: #4d94ff;
+    color: white;
+}
+
+.two{
+    background-color: #66a3ff;
+    color: white;
+}
+
+.three{
+    background-color:#80b3ff;
+    color: white;
+}
+
+.four{
+    background-color:#99c2ff;
+    color: white;
+}
+
+.five{
+    background-color:#b3d1ff;
+    color: white;
+}
+
+.six{
+    background-color:#cce0ff;
+    color: white;
+}
+
+.seven{
+    background-color: #e6f0ff;
+    color: white;
+}
+
+.neutral{
+    background-color:#66cc66;
+    color: white;
+}
+
+.p7{
+    background-color:#ffe6f2;
+    color: white;
+}
+
+.p6{
+    background-color:#ffcce5;
+    color: white;
+}
+
+.p5{
+    background-color:#ffb3d7;
+    color: white;
+}
+
+.p4{
+    background-color:#ff99ca;
+    color: white;
+}
+
+.p3{
+    background-color:#ff80bd;
+    color: white;
+}
+
+.p2{
+    background-color:#ff66b0;
+    color: white;
+}
+
+.p1{
+    background-color:#ff4da3;
+    color: white;
+}
